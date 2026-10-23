@@ -1,0 +1,17 @@
+.header {
+  background-color: aliceblue;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+}
+.links a {
+  text-decoration: none;
+  margin-left: 10px;
+  color: black;
+  margin: 10px 10px;
+}
+.links a:hover {
+  color: grey;
+}
